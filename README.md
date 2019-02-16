@@ -6,6 +6,8 @@ The algorithm is explained in this article :
 
 https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html .
 
+Code base adapted from: https://github.com/yanpanlau/DDPG-Keras-Torcs.git
+
 You will need Python 2.7​.
 
 Everything will be done in a directory called “ddpg_simulation”. We will assume that you will
