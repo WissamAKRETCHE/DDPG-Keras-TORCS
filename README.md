@@ -60,7 +60,7 @@ https://github.com/ugo-nama-kun/gym_torcs.
 Clone the gym-torcs repository as follows:
 ```
 cd to ddpg_simulation
-git clone https://github.com/ugo-nama-kun/gym_torcs.git
+git clone https://github.com/WissamAKRETCHE/DDPG-Keras-TORCS.git
 cd gym_torcs
 ```
 Run the following command:
