@@ -1,2 +1,2 @@
-## The algorithms gets trapped in a local optimum:
+## The algorithm gets trapped in a local optimum:
 ![](local_optimum.gif)
