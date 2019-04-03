@@ -28,3 +28,6 @@ The second video shows the result of the CG track3, our test dataset:
 ![CG-track3 results](/images/CG-track.gif)
 
 
+The algorithm seems to perform well ! However, it gets trapped in a local optimum sometimes (we can see the reward curve on the right):
+
+![Local optimum](local_optimum.gif)
