@@ -63,7 +63,7 @@ Clone the gym-torcs repository as follows:
 ```
 cd to ddpg_simulation
 git clone https://github.com/WissamAKRETCHE/DDPG-Keras-TORCS.git
-cd gym_torcs
+cd DDPG-Keras-Torcs
 ```
 Run the following command:
 
@@ -148,10 +148,8 @@ Torcs UI should open.
 Now you can get the git repository to run DDPG.
 ```
 cd to ddpg_simulation directory
-git clone https://github.com/yanpanlau/DDPG-Keras-Torcs.git
+git clone https://github.com/WissamAKRETCHE/DDPG-Keras-TORCS.git
 cd DDPG-Keras-Torcs
-cp *.* ../gym_torcs
-cd ../gym_torcs
 python2 ddpg.py
 ```
 (Change the flag train_indicator=1 in ddpg.py if you want to train the network)
