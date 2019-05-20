@@ -31,3 +31,11 @@ The second video shows the result of the CG track3, our test dataset:
 The algorithm seems to perform well ! However, it gets trapped in a local optimum sometimes (we can see the reward curve on the right):
 
 ![Local optimum](local_optimum.gif)
+
+## Comparaison between PPO and TD3:
+For the purposes of our project, we compared DDPG, PPO and TD3. As you can see from the curves below, the two algorithms, TD3 and PPO, seems to perform better (PPO is the best):
+![DDPG_vs_TD3_vs_PPO_distances](/images/distances.png)
+
+![DDPG_vs_TD3_vs_PPO_rewards](/images/rewards.png)
+
+
