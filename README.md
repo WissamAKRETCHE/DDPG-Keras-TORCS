@@ -38,4 +38,8 @@ For the purposes of our project, we compared DDPG, PPO and TD3. As you can see f
 
 ![DDPG_vs_TD3_vs_PPO_rewards](/images/rewards.png)
 
+In order to run TD3 and PPO, please install Python3, Pytorch and Tensorflow, change to PPO or TD3 directory and then run:
+```
+python3 main.py
+```
 
