@@ -44,6 +44,6 @@ python3 main.py
 ```
 ### DDPG analysis
 
-If you want to train a controller and analyse it with t-SNE, please use the *ddpg_analysis.py* file in order to generate the activation data then apply t-SNE by executing the *ActivationAnalysis.py* file.
+If you want to train a model and analyse it with t-SNE, you can execute the *ddpg_analysis.py* file in order to generate the activation data then apply t-SNE by executing the *ActivationAnalysis.py* file.
 
 
