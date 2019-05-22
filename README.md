@@ -42,6 +42,8 @@ In order to run TD3 and PPO, please install Python3, Pytorch and Tensorflow, cha
 ```
 python3 main.py
 ```
-## DDPG analysis:
+### DDPG analysis
+
+If you want to train a controller and analyse it with t-SNE, please use the ddpg_analysis.py file in order to generate the activation data then apply t-SNE by executing the ActivationAnalysis.py file.
 
 
